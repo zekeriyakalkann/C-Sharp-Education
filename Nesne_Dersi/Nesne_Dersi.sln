@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nesne_Dersi", "Nesne_Dersi\Nesne_Dersi.csproj", "{BFDD5743-C4FA-4AC1-B3CD-A12F6451F6F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Windows_Form", "Windows_Form\Windows_Form.csproj", "{C8A823CA-87EA-44D8-889B-231819B47931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kapsullemei", "Kapsullemei\Kapsullemei.csproj", "{64D8A176-0599-431F-9D37-2B86DD82EFC0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kapsulleme", "Kapsulleme\Kapsulleme.csproj", "{B812D5CC-FD90-492B-9CA1-FE9F8703022D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalitim_Nesne", "Kalitim_Nesne\Kalitim_Nesne.csproj", "{CAD417BF-0942-4CD5-BA5B-CBFA03BF7DF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalitim", "Kalitim\Kalitim.csproj", "{89B7B01F-EBFA-4A39-B497-CA1FE3AB4E0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFDD5743-C4FA-4AC1-B3CD-A12F6451F6F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDD5743-C4FA-4AC1-B3CD-A12F6451F6F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDD5743-C4FA-4AC1-B3CD-A12F6451F6F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDD5743-C4FA-4AC1-B3CD-A12F6451F6F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8A823CA-87EA-44D8-889B-231819B47931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A823CA-87EA-44D8-889B-231819B47931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A823CA-87EA-44D8-889B-231819B47931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A823CA-87EA-44D8-889B-231819B47931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64D8A176-0599-431F-9D37-2B86DD82EFC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D8A176-0599-431F-9D37-2B86DD82EFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D8A176-0599-431F-9D37-2B86DD82EFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D8A176-0599-431F-9D37-2B86DD82EFC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B812D5CC-FD90-492B-9CA1-FE9F8703022D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B812D5CC-FD90-492B-9CA1-FE9F8703022D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B812D5CC-FD90-492B-9CA1-FE9F8703022D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B812D5CC-FD90-492B-9CA1-FE9F8703022D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD417BF-0942-4CD5-BA5B-CBFA03BF7DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD417BF-0942-4CD5-BA5B-CBFA03BF7DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD417BF-0942-4CD5-BA5B-CBFA03BF7DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD417BF-0942-4CD5-BA5B-CBFA03BF7DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89B7B01F-EBFA-4A39-B497-CA1FE3AB4E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B7B01F-EBFA-4A39-B497-CA1FE3AB4E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B7B01F-EBFA-4A39-B497-CA1FE3AB4E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B7B01F-EBFA-4A39-B497-CA1FE3AB4E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D14D18F-2A42-4C00-81EE-C14D78678E84}
+	EndGlobalSection
+EndGlobal

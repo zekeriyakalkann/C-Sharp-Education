@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nesne_Dersi_Polimorfizm", "Nesne_Dersi_Polimorfizm\Nesne_Dersi_Polimorfizm.csproj", "{127FDB36-F209-41AD-9DE1-96D807B5D8DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{C7DDC48E-E75B-4711-8155-5AF2268371C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{127FDB36-F209-41AD-9DE1-96D807B5D8DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127FDB36-F209-41AD-9DE1-96D807B5D8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127FDB36-F209-41AD-9DE1-96D807B5D8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127FDB36-F209-41AD-9DE1-96D807B5D8DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7DDC48E-E75B-4711-8155-5AF2268371C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7DDC48E-E75B-4711-8155-5AF2268371C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7DDC48E-E75B-4711-8155-5AF2268371C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7DDC48E-E75B-4711-8155-5AF2268371C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

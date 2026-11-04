@@ -1,0 +1,28 @@
+﻿# Visual Studio temporary files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output directories
+[Bb]in/
+[Oo]bj/
+
+# Compiled files
+*.exe
+*.dll
+*.pdb
+*.cache
+*.vsidx
+*.v2
+
+# IDE temporary files
+*.tmp
+*.bak
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
